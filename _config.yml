@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Nick Reyes
+  url: https://twitter.com/kanyewest
+  email: donotreply@gmail.com
 
 # Custom vars
 version: 3.0.0
