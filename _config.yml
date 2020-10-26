@@ -3,7 +3,7 @@ title: Poole
 tagline: The Jekyll Butler
 url: https://whats4breakfast.github.io
 paginate: 1
-baseurl: /blog
+baseurl: /blog/
 permalink: pretty
 
 # Gems
