@@ -1,6 +1,6 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
+title: blog
+tagline: whats4breakfast
 url: https://whats4breakfast.github.io
 paginate: 1
 baseurl: /blog
