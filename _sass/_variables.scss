@@ -72,13 +72,15 @@
   .masthead-title {
     a {
       color: #952CA8;
-      font-family: 'Roboto Mono', monospace;
     }
+    font-family: 'Roboto Mono', monospace;
   }
   
-  .body {
-    font-family: 'Rubik', sans-serif;
+  .h {
+    font-family: 'Roboto Mono', monospace;
   }
+  
   --link-color: #71A92C;
   --link-hover-color: #5F8F25;
+  --body-font: 'Rubik', sans-serif;
 }
