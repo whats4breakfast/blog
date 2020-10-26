@@ -67,6 +67,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
 
 [data-theme="mine"] {
   .masthead-title {
@@ -76,5 +77,5 @@
   }
   --link-color: #71A92C;
   --link-hover-color: #5F8F25;
-  --body-font: 'Roboto Mono', monospace;
+  --body-font: 'Rubik', sans-serif;
 }
