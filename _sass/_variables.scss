@@ -77,7 +77,13 @@
   }
   
   .post {
-    h {
+    h1 {
+      font-family: 'Roboto Mono', monospace;
+    }
+    h2 {
+      font-family: 'Roboto Mono', monospace;
+    }
+    h3 {
       font-family: 'Roboto Mono', monospace;
     }
     p {
@@ -87,5 +93,4 @@
   
   --link-color: #71A92C;
   --link-hover-color: #5F8F25;
-  --body-font: 'Rubik', sans-serif;
 }
