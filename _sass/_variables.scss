@@ -76,8 +76,13 @@
     font-family: 'Roboto Mono', monospace;
   }
   
-  .h {
-    font-family: 'Roboto Mono', monospace;
+  .post {
+    h1 {
+      font-family: 'Roboto Mono', monospace;
+    }
+    p {
+      font-family: 'Rubik', monospace;
+    }
   }
   
   --link-color: #71A92C;
