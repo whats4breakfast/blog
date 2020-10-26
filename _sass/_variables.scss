@@ -66,6 +66,11 @@
 }
 
 [data-theme="mine"] {
+  .masthead-title {
+    a {
+      color: #46691B;
+    }
+  }
   --link-color: #71A92C;
   --link-hover-color: #5F8F25;
 }
