@@ -66,6 +66,7 @@
 }
 
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gaegu&display=swap');
 
 [data-theme="mine"] {
   .masthead-title {
@@ -75,5 +76,5 @@
   }
   --link-color: #71A92C;
   --link-hover-color: #5F8F25;
-  --body-font: 'IBM Plex Mono';
+  --body-font: 'Gaegu', cursive;
 }
